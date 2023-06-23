@@ -1,0 +1,48 @@
+main {
+    padding: 80px 80px 40px 80px;
+    background-color: #000;
+    color: #fff;
+}
+
+.cardio-container {
+    display: flex;
+    justify-content: space-around;
+}
+.cardio-info {
+    margin: 15% 0px;
+}
+
+.cardio-title {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.cardio-time{
+
+}
+
+.cardio-text {
+    margin: 40px 0px;
+    line-height: 2;
+}
+
+.cardio-btn {
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    border: 1px red solid;
+    background-color: red;
+    padding: 15px 40px;
+
+}
+
+.cardio-img {
+
+}
+
+
+.cardio-pic {
+    position: relative;
+    width: 70%;
+    margin: 10px 25% 10px 25%;
+}

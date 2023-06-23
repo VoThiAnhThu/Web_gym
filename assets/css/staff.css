@@ -1,0 +1,59 @@
+main {
+    padding: 80px 80px 40px 80px;
+    background-color: #000;
+    color: #fff;
+}
+
+.staff-title {
+    font-size: 56px;
+    font-weight: bold;
+}
+.staff-container {
+    display: flex;
+    margin: 50px 0px;
+}
+.staff-item {
+
+}
+
+.staff-item-right {
+    margin-left: 230px;
+}
+
+.staff-name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.staff-text {
+    padding: 30px 150px 50px 0px;
+
+}
+
+.staff-text-right {
+    padding: 30px 50px 30px 0px;
+}
+
+.staff-drs {
+    font-size: 18px;
+    padding: 10px 0px;
+}
+.staff-contact {
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid red;
+    padding: 16px 48px;
+    background: red;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.staff-contact:hover {
+    color: #fff;
+}
+
+.staff-img {
+    position: relative;
+    width: 40%;
+}
+

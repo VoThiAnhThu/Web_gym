@@ -1,0 +1,39 @@
+main {
+    padding: 80px 80px 40px 80px;
+    background-color: #000;
+    color: #fff;
+}
+
+.signup-title {
+    font-size: 56px;
+    font-weight: bold;
+    margin-bottom: 145px;
+}
+
+.signup-container {
+
+}
+.signup-item {
+    color: #ccc;
+    margin-bottom: 30px;
+}
+.signup-lable {
+    display: block;
+    margin-bottom: 10px;
+}
+.signup-input {
+    height: 45px;
+    width: 40%;
+    background: #ccc;
+}
+#signup-text {
+    width: 40%;
+    background: #ccc;
+}
+
+.signup-btn {
+    background-color: red;
+    color: #fff;
+    width: 10%;
+    height: 60px;
+}

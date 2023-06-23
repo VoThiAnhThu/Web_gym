@@ -1,0 +1,163 @@
+.space {
+    margin-top: 30px;
+}
+
+.title {
+    height: 700px;
+    background-repeat: no-repeat;
+    background-image: url(/assets/img/home/home-header.webp) ;
+}
+
+.title-slogan {
+    position: relative;
+    top:180px;
+    width: 760px;
+    margin-left: 120px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.title-drs {
+    position: relative;
+    color: #fff;
+    top: 190px;
+    font-size: 18px;
+    margin-left: 120px;
+}
+
+.title-submit {
+    position: relative;
+    top: 300px;
+    margin-left: 120px;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid red;
+    padding: 16px 48px;
+    background: red;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.title-submit:hover {
+    color: #fff;
+}
+
+.classes{
+    margin:80px;
+    height: 1200px;
+}
+.tit{
+    font-size: 56px;
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+.classes-item {
+    display: flex;
+    justify-content: space-around;
+}
+.classes-item-drs {
+    width: 500px;
+}
+.classes-item-img {
+    width: 100%;
+}
+.classes-item-name {
+    margin-top: 20px;
+    font-size: 32px;
+    font-weight: bold;
+}
+.classes-check {
+    position: relative;
+    top: 5%;
+    left: 42%;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid;
+    font-size: 16px;
+    padding: 16px 48px;
+    font-weight: 600;
+    background: red;
+}
+
+.classes-check:hover {
+    color: #fff;
+}
+
+.about-container{
+    background-image: url(/assets/img/home/about.jpg);
+    background-repeat: no-repeat;
+    height: 850px;
+    color: #fff;
+}
+
+.about-header {
+    padding: 100px 0px 0px 120px;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.about-content {
+    width: 550px; 
+    font-size: 20px;
+    margin: 75px 10px 0px 120px;
+}
+
+.about-check {
+    margin: 15px 0px 0px 120px;
+    border: 1px solid red;
+    position: relative;
+    top: 100px;
+    padding: 16px 80px;
+    background: red;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.about-check:hover {
+    color: #fff;
+}
+
+.class-container{
+    background-image: url(/assets/img/home/Class.webp);
+    background-repeat: no-repeat;
+    height: 850px;
+    color: #fff;
+}
+
+.class-drs {
+    position: relative;
+    left: 54%;
+}
+.class-header {
+    padding: 100px 0px 0px 120px;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.class-content {
+    width: 550px; 
+    font-size: 20px;
+    margin: 75px 10px 0px 120px;
+}
+
+.class-check {
+    margin: 15px 0px 0px 120px;
+    border: 1px solid red;
+    position: relative;
+    top: 100px;
+    padding: 16px 80px;
+    background: red;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.class-check:hover {
+    color: #fff;
+}
+

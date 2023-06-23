@@ -1,0 +1,39 @@
+main {
+    padding: 80px 80px 40px 80px;
+    background-color: #000;
+    color: #fff;
+}
+
+.price-title {
+    font-size: 56px;
+    font-weight: bold;
+    margin-bottom: 145px;
+}
+.price-container {
+    display: flex;
+    justify-content: space-around;
+}
+.price-item {
+
+}
+.price-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 28px;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.price-cost {
+
+}
+.price-list {
+
+}
+
+.price-list-title {
+    margin-bottom: 20px;
+}
+.price-drs {
+
+}
