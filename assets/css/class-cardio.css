@@ -36,9 +36,10 @@ main {
 
 }
 
-.cardio-img {
-
+.cardio-btn:hover {
+    color: #fff;
 }
+
 
 
 .cardio-pic {
